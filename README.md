@@ -1,13 +1,10 @@
 # Data-Analysis-Project
 KMeans Clustering on Cancer Data Set
 
-Data Set Description
+Data Set Description:
 1. Number of Attributes: 10 plus the class attribute
 
 2. Attribute Information: (class attribute has been moved to last column)
-
-   #  Attribute                     Domain
-   -- -----------------------------------------
    1. Sample code number            id number
    2. Clump Thickness               1 - 10
    3. Uniformity of Cell Size       1 - 10
